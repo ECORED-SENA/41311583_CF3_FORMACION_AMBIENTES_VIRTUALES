@@ -1,0 +1,42 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al inicio",
+    "path": "index.html"
+  },
+  {
+    "id": 1,
+    "icon": "fa fa-file-text",
+    "slug": "lineamientos_institucionales",
+    "title": "1. Lineamientos institucionales (SENA) para la formación virtual",
+    "breadcrumb": ["Inicio","Lineamientos institucionales (SENA) para la formación virtual"],
+    "path": "pages/tema_1.html",    
+    "submenu": [
+      {
+        "icon": "fa fa-file-text",
+        "slug": "lineamientos_institucionales",
+        "title": "1.1 Estrategias de implementación",
+        "anchor": "tema1_1"
+      }, 
+      {
+        "icon": "fa fa-file-text",
+        "slug": "lineamientos_institucionales",
+        "title": "1.2 Implementación de estrategias didácticas activas aplicadas en ambientes virtuales de aprendizaje",
+        "anchor": "tema1_2"
+      },  
+      {
+        "icon": "fa fa-file-text",
+        "slug": "lineamientos_institucionales",
+        "title": "1.3 Implementación de actividades de aprendizaje",
+        "anchor": "tema1_3"
+      },
+      {
+        "icon": "fa fa-file-text",
+        "slug": "lineamientos_institucionales",
+        "title": "1.4 Implementación de estrategia para el seguimiento del aprendizaje en el LMS",
+        "anchor": "tema1_4"
+      }
+    ]   
+  }
+]
